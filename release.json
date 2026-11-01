@@ -1,0 +1,8 @@
+{
+  "sourceRevision": "ad899e2d7b1a5ecae6671a81eee1dd4d725a38e5",
+  "sourceHtmlSha256": "c266400a38f77927b0f74ba41ff22d9e5c3b4c07bcde983f244a32cd9d67f8d2",
+  "publicHtmlSha256": "e7b2627c1d69506cad834f5f8dc541cc737039207c064fb9f0c848b1b809f521",
+  "packagingChanges": [
+    "Removed two internal Library source identifiers; no visual or gameplay changes"
+  ]
+}
