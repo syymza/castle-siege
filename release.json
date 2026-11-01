@@ -23,9 +23,9 @@
       "sha256": "89471c532485e7b19bbc1b279eec9b1bbcc6f55a37c12ae78b2e6d5ca0f2335b"
     },
     {
-      "name": "app-cf824091369b.js",
-      "bytes": 639871,
-      "sha256": "cf824091369bac0c85231f6a654df9e53d3ed1cebff21a9b3868231fe50a5a83"
+      "name": "app-0fb96ed82cd9.js",
+      "bytes": 639864,
+      "sha256": "0fb96ed82cd99e4670f8ddbc5db98704e6787f1d3b834a9f2b887f405c8ad153"
     },
     {
       "name": "assets/castle-ac6f0484612e.glb.gz",
@@ -40,7 +40,10 @@
     {
       "name": "index.html",
       "bytes": 27487,
-      "sha256": "9b5df330e856197d66e7848ac0238ff9e59b28755558bdb509299d0ecd87b94c"
+      "sha256": "dc1d633ef033d5ec497a6ec8c5ad83dfbc4131e09b8091d020d16b446fdf8362"
     }
+  ],
+  "packagingNotes": [
+    "Trailing spaces in bundled Three.js shader source normalized; no shader expressions changed."
   ]
 }
