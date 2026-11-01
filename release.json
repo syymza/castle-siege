@@ -1,6 +1,6 @@
 {
-  "sourceRevision": "95ed16bee3342a602724b5fcdaccdbcaf80c446b",
-  "previousPublicRevision": "13e312ca2a4efb85a6f175e58081c185a392cf87",
+  "sourceRevision": "25a5246be3eda9642f068379e3ab48166b8c409d",
+  "previousPublicRevision": "7284dc243ee840586f357f9564defde0f61ddce3",
   "files": [
     {
       "name": ".nojekyll",
@@ -14,8 +14,8 @@
     },
     {
       "name": "README.md",
-      "bytes": 1864,
-      "sha256": "3e648e2d15e7b610bfcffbae3d5a55159b485f61c27bfb3e1c2fc63d58726ca1"
+      "bytes": 2011,
+      "sha256": "ce0cd95b56a2787789bb2c70b05a2f0ff6fdc37eba6a3c50502f3f7cfc11b56b"
     },
     {
       "name": "THIRD-PARTY-LICENSES.txt",
@@ -23,27 +23,28 @@
       "sha256": "89471c532485e7b19bbc1b279eec9b1bbcc6f55a37c12ae78b2e6d5ca0f2335b"
     },
     {
-      "name": "app-0fb96ed82cd9.js",
-      "bytes": 639864,
-      "sha256": "0fb96ed82cd99e4670f8ddbc5db98704e6787f1d3b834a9f2b887f405c8ad153"
+      "name": "app-b38817e08ae4.js",
+      "bytes": 647280,
+      "sha256": "b38817e08ae4bfbe86994d3051f519287352172aade2b54ba850e867fb75a696"
     },
     {
-      "name": "assets/castle-ac6f0484612e.glb.gz",
-      "bytes": 8923991,
-      "sha256": "ac6f0484612ef0943ae8b91d428cdf9c0c57a57a98d228947afb5c44123b9b74"
+      "name": "assets/castle-697c6683c2a1.glb.gz",
+      "bytes": 8924095,
+      "sha256": "697c6683c2a1d15f03a83bc5689aa886adde06432d4b5e34557c8426e40f685e"
     },
     {
-      "name": "assets/defender-1147382b52a5.glb.gz",
-      "bytes": 2461948,
-      "sha256": "1147382b52a5f85badd6023e6ac22a3ef9151278bd222d9155f578dabcd08e09"
+      "name": "assets/defender-7e5fd224e261.glb.gz",
+      "bytes": 2564054,
+      "sha256": "7e5fd224e26159a1bafcda0e6c3a753285eee397df12c5ee15ab8b90a66172dd"
     },
     {
       "name": "index.html",
-      "bytes": 27487,
-      "sha256": "dc1d633ef033d5ec497a6ec8c5ad83dfbc4131e09b8091d020d16b446fdf8362"
+      "bytes": 93047,
+      "sha256": "ca6fc6372c162822a7a88995da4a77d979ba308940edb06698dfe86eef3de141"
     }
   ],
   "packagingNotes": [
-    "Trailing spaces in bundled Three.js shader source normalized; no shader expressions changed."
+    "Trailing spaces in bundled Three.js shader source normalized; no shader expressions changed.",
+    "Sequential external asset loading and bounded occlusion index retained."
   ]
 }
