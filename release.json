@@ -1,8 +1,46 @@
 {
-  "sourceRevision": "ad899e2d7b1a5ecae6671a81eee1dd4d725a38e5",
-  "sourceHtmlSha256": "c266400a38f77927b0f74ba41ff22d9e5c3b4c07bcde983f244a32cd9d67f8d2",
-  "publicHtmlSha256": "e7b2627c1d69506cad834f5f8dc541cc737039207c064fb9f0c848b1b809f521",
-  "packagingChanges": [
-    "Removed two internal Library source identifiers; no visual or gameplay changes"
+  "sourceRevision": "95ed16bee3342a602724b5fcdaccdbcaf80c446b",
+  "previousPublicRevision": "13e312ca2a4efb85a6f175e58081c185a392cf87",
+  "files": [
+    {
+      "name": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "CREDITS.md",
+      "bytes": 2202,
+      "sha256": "de0a66651b4b24530d169224cfd089efbc67d9d522aa8a75174a11ca029c4112"
+    },
+    {
+      "name": "README.md",
+      "bytes": 1864,
+      "sha256": "3e648e2d15e7b610bfcffbae3d5a55159b485f61c27bfb3e1c2fc63d58726ca1"
+    },
+    {
+      "name": "THIRD-PARTY-LICENSES.txt",
+      "bytes": 1307,
+      "sha256": "89471c532485e7b19bbc1b279eec9b1bbcc6f55a37c12ae78b2e6d5ca0f2335b"
+    },
+    {
+      "name": "app-cf824091369b.js",
+      "bytes": 639871,
+      "sha256": "cf824091369bac0c85231f6a654df9e53d3ed1cebff21a9b3868231fe50a5a83"
+    },
+    {
+      "name": "assets/castle-ac6f0484612e.glb.gz",
+      "bytes": 8923991,
+      "sha256": "ac6f0484612ef0943ae8b91d428cdf9c0c57a57a98d228947afb5c44123b9b74"
+    },
+    {
+      "name": "assets/defender-1147382b52a5.glb.gz",
+      "bytes": 2461948,
+      "sha256": "1147382b52a5f85badd6023e6ac22a3ef9151278bd222d9155f578dabcd08e09"
+    },
+    {
+      "name": "index.html",
+      "bytes": 27487,
+      "sha256": "9b5df330e856197d66e7848ac0238ff9e59b28755558bdb509299d0ecd87b94c"
+    }
   ]
 }
