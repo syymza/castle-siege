@@ -27,3 +27,8 @@ Far armored silhouettes: original project geometry and vertex palette, 498 trian
 Functional well and woodworking props are original project geometry using the existing shared wood, iron and hemp materials. The well is an illustrative bounded haul/inspection mechanism; no water filling is simulated. The restrained woodworking task does not claim progressive cutting or material removal.
 
 - Sky: [Kloofendal48dPartlyCloudy PureSky](https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky), Greg Zaal and Jarod Guest, Poly Haven CC0. Official sky-only photographic panorama resized to1024×512 and aligned to the existing light; tonemapped LDR, not full HDR lighting.
+
+## Near civilian
+One stores porter uses the improved near model; `?porterNear=0` retains the earlier comparison. Tunic topology derives from [Donitz’s CC0 monk robe](https://static.makehumancommunity.org/assets/assetpacks/suits02.html), shortened and refitted. Skin, belt, material derivatives and rig adaptation were authored for this project. This is not a historical reconstruction. Physical-iPhone verification remains pending.
+
+Forward repair bench refit: original project geometry, fitted to the existing ground with shared wood material. Existing authored repair action and hand-held tools are reused unchanged; no cutting or material removal is simulated.

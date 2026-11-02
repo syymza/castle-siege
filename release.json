@@ -1,6 +1,6 @@
 {
-  "sourceRevision": "8ade360dcca981512c9e6815977272bdfa7813b5",
-  "previousPublicRevision": "a499b26987c8c4a720b9618d27bbbd96d0d558f8",
+  "sourceRevision": "0be7c11439b60a7d16da952d30a76a10f7631588",
+  "previousPublicRevision": "de6e9a9d0192eae8245130d7fa06fe408a0bb772",
   "files": [
     {
       "name": ".nojekyll",
@@ -9,13 +9,13 @@
     },
     {
       "name": "CREDITS.md",
-      "bytes": 3817,
-      "sha256": "706e053ff03018dfdf2871fa63891a04071592e4bc656021ebf626501c3f3807"
+      "bytes": 4484,
+      "sha256": "efbbe23fe6556a2a2abfb9cf52aacba504637dd37594717b282d82a43beb0b09"
     },
     {
       "name": "README.md",
-      "bytes": 2040,
-      "sha256": "e1894592d5c32e63d6189f6720e982885633846e25d671d28fa913c943070361"
+      "bytes": 2284,
+      "sha256": "53a6362f35875ab2be9a84a29b2c9866cbbc10ac331e77211622c9ca4fbefbf7"
     },
     {
       "name": "THIRD-PARTY-LICENSES.txt",
@@ -23,9 +23,9 @@
       "sha256": "89471c532485e7b19bbc1b279eec9b1bbcc6f55a37c12ae78b2e6d5ca0f2335b"
     },
     {
-      "name": "app-9b837471cb92.js",
-      "bytes": 1825057,
-      "sha256": "9b837471cb924f93b95511833b3760bec9476bb314235446fd8c7db98a234028"
+      "name": "app-5b831cc34516.js",
+      "bytes": 1932299,
+      "sha256": "5b831cc345161c0b1db62b572452c9f5f4496a717705fd4b52b6b5253e824656"
     },
     {
       "name": "assets/army-4dcdf93cd629.glb.gz",
@@ -46,6 +46,16 @@
       "name": "assets/camp-e1a65408dcbc.glb.gz",
       "bytes": 7776,
       "sha256": "e1a65408dcbce70e471fcc8dd479c7fd4cbe66645021f39dbf4747fdb1111256"
+    },
+    {
+      "name": "assets/campstarts-6951fccb1118.glb.gz",
+      "bytes": 54650,
+      "sha256": "6951fccb111895e500f40ce4363df3caaef029bde223bf2dc44cd2786abed189"
+    },
+    {
+      "name": "assets/campstations-2a2928220c02.glb.gz",
+      "bytes": 7432,
+      "sha256": "2a2928220c02cee9a33e25c62e24c92f9bd898bcbc3da47677de3485dd651d61"
     },
     {
       "name": "assets/carry-50999431b7b5.glb.gz",
@@ -83,14 +93,29 @@
       "sha256": "7e5fd224e26159a1bafcda0e6c3a753285eee397df12c5ee15ab8b90a66172dd"
     },
     {
+      "name": "assets/forwardrepair-4631ca9f9d51.glb.gz",
+      "bytes": 6877,
+      "sha256": "4631ca9f9d5134a6a2de7bac4627a5dbceade96fd774b906df000c916e8f2935"
+    },
+    {
       "name": "assets/heldstop-338ef746ed0b.glb.gz",
       "bytes": 18626,
       "sha256": "338ef746ed0b400761e862f912a185ea1184629c408323695b7eec1b4c75a029"
     },
     {
+      "name": "assets/inspection-8c82080f97ed.glb.gz",
+      "bytes": 114032,
+      "sha256": "8c82080f97edb3ea9dc258ddffc2e1009afb0f23c0920ef44bef0e3642698ab3"
+    },
+    {
       "name": "assets/near-cf252e7dc8d2.glb.gz",
       "bytes": 1515318,
       "sha256": "cf252e7dc8d23d7f063b2d2577fd073446eac08c4a2282443851a4148ab97c47"
+    },
+    {
+      "name": "assets/nearcivilian-d48e723ca8bd.glb.gz",
+      "bytes": 1508114,
+      "sha256": "d48e723ca8bdd789d3fbfec9469489941e5b4c75f4612fa7027445ae1c62c5ce"
     },
     {
       "name": "assets/nearhorn-5637d76c73b9.glb.gz",
@@ -159,12 +184,12 @@
     },
     {
       "name": "index.html",
-      "bytes": 96960,
-      "sha256": "891739fa147754b76af35dbbe35699475ee2dd950819a1542f850055f1b624bf"
+      "bytes": 97865,
+      "sha256": "1f9c1c71202bfd225e7ce76e555324ef6dac028dcf6cbbadb7cdbd79766bcd5c"
     }
   ],
   "packagingNotes": [
-    "Removed three internal Library identifiers from descriptive metadata only; no runtime contracts or assets changed.",
+    "Removed internal Library identifiers from descriptive metadata only; no runtime contracts or assets changed.",
     "Normalized trailing whitespace in bundled shader text, as in the established release process.",
     "Public README and credits describe the reviewed prototype and its physical-device verification limits."
   ]
