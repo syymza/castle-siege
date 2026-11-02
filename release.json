@@ -1,6 +1,6 @@
 {
-  "sourceRevision": "25a5246be3eda9642f068379e3ab48166b8c409d",
-  "previousPublicRevision": "7284dc243ee840586f357f9564defde0f61ddce3",
+  "sourceRevision": "8ade360dcca981512c9e6815977272bdfa7813b5",
+  "previousPublicRevision": "a499b26987c8c4a720b9618d27bbbd96d0d558f8",
   "files": [
     {
       "name": ".nojekyll",
@@ -9,13 +9,13 @@
     },
     {
       "name": "CREDITS.md",
-      "bytes": 2202,
-      "sha256": "de0a66651b4b24530d169224cfd089efbc67d9d522aa8a75174a11ca029c4112"
+      "bytes": 3817,
+      "sha256": "706e053ff03018dfdf2871fa63891a04071592e4bc656021ebf626501c3f3807"
     },
     {
       "name": "README.md",
-      "bytes": 2011,
-      "sha256": "ce0cd95b56a2787789bb2c70b05a2f0ff6fdc37eba6a3c50502f3f7cfc11b56b"
+      "bytes": 2040,
+      "sha256": "e1894592d5c32e63d6189f6720e982885633846e25d671d28fa913c943070361"
     },
     {
       "name": "THIRD-PARTY-LICENSES.txt",
@@ -23,14 +23,59 @@
       "sha256": "89471c532485e7b19bbc1b279eec9b1bbcc6f55a37c12ae78b2e6d5ca0f2335b"
     },
     {
-      "name": "app-b38817e08ae4.js",
-      "bytes": 647280,
-      "sha256": "b38817e08ae4bfbe86994d3051f519287352172aade2b54ba850e867fb75a696"
+      "name": "app-9b837471cb92.js",
+      "bytes": 1825057,
+      "sha256": "9b837471cb924f93b95511833b3760bec9476bb314235446fd8c7db98a234028"
     },
     {
-      "name": "assets/castle-697c6683c2a1.glb.gz",
-      "bytes": 8924095,
-      "sha256": "697c6683c2a1d15f03a83bc5689aa886adde06432d4b5e34557c8426e40f685e"
+      "name": "assets/army-4dcdf93cd629.glb.gz",
+      "bytes": 16181,
+      "sha256": "4dcdf93cd62931fd68efe93ef847a6af6f6a0e0979144e33db73fa4e2a8525ba"
+    },
+    {
+      "name": "assets/attendant-ao-226dac2aab6f.png",
+      "bytes": 16774,
+      "sha256": "226dac2aab6ff06d2e7840fd41311ae37f84afe79e704d931b1ad5a4cea3139f"
+    },
+    {
+      "name": "assets/attendant-d7a157d866ff.glb.gz",
+      "bytes": 192081,
+      "sha256": "d7a157d866fff251d9582910994098af148304a7490133e041abd0eecaafdcff"
+    },
+    {
+      "name": "assets/camp-e1a65408dcbc.glb.gz",
+      "bytes": 7776,
+      "sha256": "e1a65408dcbce70e471fcc8dd479c7fd4cbe66645021f39dbf4747fdb1111256"
+    },
+    {
+      "name": "assets/carry-50999431b7b5.glb.gz",
+      "bytes": 99012,
+      "sha256": "50999431b7b53b34c494d6cc7bbb8041040b8b3331e6c906b4e9d95e9f86bbcc"
+    },
+    {
+      "name": "assets/castle-fdfefd00d3b9.glb.gz",
+      "bytes": 8915815,
+      "sha256": "fdfefd00d3b943265f3fcbfa9b0fba2e7a4eafd930470849c39009cc991e967e"
+    },
+    {
+      "name": "assets/civilianmotion-dcd626364e20.glb.gz",
+      "bytes": 206951,
+      "sha256": "dcd626364e20c177a42699a9dabf0a7e6e3dd0857af964f049ccc7c32aecbffc"
+    },
+    {
+      "name": "assets/civilianstarts-ac1f8bc80d51.glb.gz",
+      "bytes": 417315,
+      "sha256": "ac1f8bc80d51cc51666cb0a5fade794a4cc4605f09e16c52601d14088cf3714c"
+    },
+    {
+      "name": "assets/coat-ao-e8bd11238b05.png",
+      "bytes": 21584,
+      "sha256": "e8bd11238b05a5e673c9c4972746ef010de5a839b6227900c89e2b8d7b117528"
+    },
+    {
+      "name": "assets/crate-0c87369eca8a.glb.gz",
+      "bytes": 15067,
+      "sha256": "0c87369eca8a650ea0f96cf848ea1f484cd26d1740cf9fb4c1fb4747291d8bf2"
     },
     {
       "name": "assets/defender-7e5fd224e261.glb.gz",
@@ -38,13 +83,89 @@
       "sha256": "7e5fd224e26159a1bafcda0e6c3a753285eee397df12c5ee15ab8b90a66172dd"
     },
     {
+      "name": "assets/heldstop-338ef746ed0b.glb.gz",
+      "bytes": 18626,
+      "sha256": "338ef746ed0b400761e862f912a185ea1184629c408323695b7eec1b4c75a029"
+    },
+    {
+      "name": "assets/near-cf252e7dc8d2.glb.gz",
+      "bytes": 1515318,
+      "sha256": "cf252e7dc8d23d7f063b2d2577fd073446eac08c4a2282443851a4148ab97c47"
+    },
+    {
+      "name": "assets/nearhorn-5637d76c73b9.glb.gz",
+      "bytes": 25404,
+      "sha256": "5637d76c73b9ca7ce907042cdfb73ced013438dfbe0dadc226d9fa07c0172a54"
+    },
+    {
+      "name": "assets/porter-44d09ea85cc3.glb.gz",
+      "bytes": 178013,
+      "sha256": "44d09ea85cc36cd6a493df0ef13c955e78bfc70676031b66d6f8c75e9143f6b9"
+    },
+    {
+      "name": "assets/porter-ao-498da2fccb6a.png",
+      "bytes": 28266,
+      "sha256": "498da2fccb6a7cc7b6c2fcfb9b5eba231ce0d7f72946eccfd4ef167ae5a03f43"
+    },
+    {
+      "name": "assets/receiving-a36bb1ef8367.glb.gz",
+      "bytes": 4322,
+      "sha256": "a36bb1ef83674c1f45119a834cd3a977a209800aa6365560761b39bdf5bff91c"
+    },
+    {
+      "name": "assets/repairaction-bccea1c7494e.glb.gz",
+      "bytes": 23718,
+      "sha256": "bccea1c7494e9d5e30c4705b1ea65df1d4dbf15b310bb6fe419ec1e60baaa110"
+    },
+    {
+      "name": "assets/repairprops-38433846304d.glb.gz",
+      "bytes": 5191,
+      "sha256": "38433846304d36a18f850ab3b0a498b8001a7787cd49c242051507f928bf62a5"
+    },
+    {
+      "name": "assets/seambacking-458edf7d4016.glb.gz",
+      "bytes": 732,
+      "sha256": "458edf7d40162154af58d797abfe8969b9209bb4c230f8858a6d5d69728aacf6"
+    },
+    {
+      "name": "assets/sky-2d5e7e466a47.jpg",
+      "bytes": 62568,
+      "sha256": "2d5e7e466a4776a57bdf7614d2cafa72cabdc768c265678c3f4ea2d8a5444f93"
+    },
+    {
+      "name": "assets/transport-45e1038d6b4e.glb.gz",
+      "bytes": 196189,
+      "sha256": "45e1038d6b4efd9ccd9e51284b98e7af041927d05c90bcb389d04314e65be251"
+    },
+    {
+      "name": "assets/walkstop-77b7f4c164fa.glb.gz",
+      "bytes": 17891,
+      "sha256": "77b7f4c164fa92ce34a95e1fc2381fa6303c6f9aba823c54d7d8bb1b70a01aad"
+    },
+    {
+      "name": "assets/wellaction-3b07571c823b.glb.gz",
+      "bytes": 49672,
+      "sha256": "3b07571c823b61c98afdea4766a02288f9118188a4c35d18dc7aa2d397c46c15"
+    },
+    {
+      "name": "assets/wellprops-f7e053cb4ba1.glb.gz",
+      "bytes": 40167,
+      "sha256": "f7e053cb4ba161468f0daf21267f1bde748a30e5e2356c00bd6a03ea44dea8d6"
+    },
+    {
+      "name": "assets/worker-5a4aa6d108c8.glb.gz",
+      "bytes": 181854,
+      "sha256": "5a4aa6d108c8192a34caaa9f3356bfdf09b6c5c77582d95d09bc299f338203c4"
+    },
+    {
       "name": "index.html",
-      "bytes": 93047,
-      "sha256": "ca6fc6372c162822a7a88995da4a77d979ba308940edb06698dfe86eef3de141"
+      "bytes": 96960,
+      "sha256": "891739fa147754b76af35dbbe35699475ee2dd950819a1542f850055f1b624bf"
     }
   ],
   "packagingNotes": [
-    "Trailing spaces in bundled Three.js shader source normalized; no shader expressions changed.",
-    "Sequential external asset loading and bounded occlusion index retained."
+    "Removed three internal Library identifiers from descriptive metadata only; no runtime contracts or assets changed.",
+    "Normalized trailing whitespace in bundled shader text, as in the established release process.",
+    "Public README and credits describe the reviewed prototype and its physical-device verification limits."
   ]
 }
